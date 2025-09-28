@@ -1,6 +1,6 @@
 # SQL Data Cleaning & Exploratory Analysis Project
 
-A SQL-based data analysis project featuring data cleaning and exploratory analysis queries.
+. A SQL-based data analysis project demonstrating professional data cleaning techniques and exploratory analysis using SQL queries.
 
 ## Files
 - `01_data_cleaning.sql` - Data preprocessing and quality checks
